@@ -1,3 +1,6 @@
+⭐ If this project helps you, consider sponsoring development
+☕ Buy Me a Coffee
+💖 GitHub Sponsors
 
 <p align="center">
   <img src="assets/badge-authority-hex-core.svg" alt="GitDigital Badge Authority" width="120" />
